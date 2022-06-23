@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Teknoloji Mağazası</string>
+    <string name="urun_baslik">Kablosuz Kulaklık</string>
+    <string name="urun_fiyat">800 ₺</string>
+    <string name="sepete_ekle">SEPETE EKLE</string>
+</resources>

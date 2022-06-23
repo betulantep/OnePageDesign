@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Technology Store</string>
+    <string name="urun_baslik">Wireless Headphones</string>
+    <string name="urun_fiyat">$ 45</string>
+    <string name="sepete_ekle">ADD TO CART</string>
+</resources>
