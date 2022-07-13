@@ -1,0 +1,1 @@
+<img src="https://github.com/betulantep/OnePageDesign/blob/master/app/src/main/res/drawable/one_page_design_en.png" width="250"><img src="https://github.com/betulantep/OnePageDesign/blob/master/app/src/main/res/drawable/one_page_design_tr.png" width="250">
